@@ -12,7 +12,9 @@
 
 ### - Construa o projeto usando `colcon`:
 -cd ~/Prova-1-M06
+
 -colcon build --packages-select my_turtle_controller
+
 -source ~/Prova-1-M06/install/setup.bash
 
 ## Passo 3:
