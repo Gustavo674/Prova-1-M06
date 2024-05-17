@@ -1,0 +1,37 @@
+[1.705s] Invoking command in '/home/oiomestre674/Prova-1-M06/my_turtle_controller': PYTHONPATH=/home/oiomestre674/Prova-1-M06/build/my_turtle_controller/prefix_override:/home/oiomestre674/Prova-1-M06/install/my_turtle_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/my_turtle_controller build --build-base /home/oiomestre674/Prova-1-M06/build/my_turtle_controller/build install --record /home/oiomestre674/Prova-1-M06/build/my_turtle_controller/install.log --single-version-externally-managed install_data
+[2.142s] running egg_info
+[2.143s] creating ../build/my_turtle_controller/my_turtle_controller.egg-info
+[2.143s] writing ../build/my_turtle_controller/my_turtle_controller.egg-info/PKG-INFO
+[2.143s] writing dependency_links to ../build/my_turtle_controller/my_turtle_controller.egg-info/dependency_links.txt
+[2.143s] writing entry points to ../build/my_turtle_controller/my_turtle_controller.egg-info/entry_points.txt
+[2.143s] writing requirements to ../build/my_turtle_controller/my_turtle_controller.egg-info/requires.txt
+[2.144s] writing top-level names to ../build/my_turtle_controller/my_turtle_controller.egg-info/top_level.txt
+[2.144s] writing manifest file '../build/my_turtle_controller/my_turtle_controller.egg-info/SOURCES.txt'
+[2.145s] reading manifest file '../build/my_turtle_controller/my_turtle_controller.egg-info/SOURCES.txt'
+[2.145s] writing manifest file '../build/my_turtle_controller/my_turtle_controller.egg-info/SOURCES.txt'
+[2.146s] running build
+[2.146s] running build_py
+[2.146s] creating /home/oiomestre674/Prova-1-M06/build/my_turtle_controller/build
+[2.146s] creating /home/oiomestre674/Prova-1-M06/build/my_turtle_controller/build/lib
+[2.146s] creating /home/oiomestre674/Prova-1-M06/build/my_turtle_controller/build/lib/my_turtle_controller
+[2.146s] copying my_turtle_controller/__init__.py -> /home/oiomestre674/Prova-1-M06/build/my_turtle_controller/build/lib/my_turtle_controller
+[2.146s] copying my_turtle_controller/turtle_controller.py -> /home/oiomestre674/Prova-1-M06/build/my_turtle_controller/build/lib/my_turtle_controller
+[2.146s] running install
+[2.146s] running install_lib
+[2.147s] creating /home/oiomestre674/Prova-1-M06/install/my_turtle_controller/lib/python3.10/site-packages/my_turtle_controller
+[2.147s] copying /home/oiomestre674/Prova-1-M06/build/my_turtle_controller/build/lib/my_turtle_controller/__init__.py -> /home/oiomestre674/Prova-1-M06/install/my_turtle_controller/lib/python3.10/site-packages/my_turtle_controller
+[2.147s] copying /home/oiomestre674/Prova-1-M06/build/my_turtle_controller/build/lib/my_turtle_controller/turtle_controller.py -> /home/oiomestre674/Prova-1-M06/install/my_turtle_controller/lib/python3.10/site-packages/my_turtle_controller
+[2.147s] byte-compiling /home/oiomestre674/Prova-1-M06/install/my_turtle_controller/lib/python3.10/site-packages/my_turtle_controller/__init__.py to __init__.cpython-310.pyc
+[2.148s] byte-compiling /home/oiomestre674/Prova-1-M06/install/my_turtle_controller/lib/python3.10/site-packages/my_turtle_controller/turtle_controller.py to turtle_controller.cpython-310.pyc
+[2.148s] running install_data
+[2.148s] creating /home/oiomestre674/Prova-1-M06/install/my_turtle_controller/share/ament_index
+[2.149s] creating /home/oiomestre674/Prova-1-M06/install/my_turtle_controller/share/ament_index/resource_index
+[2.149s] creating /home/oiomestre674/Prova-1-M06/install/my_turtle_controller/share/ament_index/resource_index/packages
+[2.149s] copying resource/my_turtle_controller -> /home/oiomestre674/Prova-1-M06/install/my_turtle_controller/share/ament_index/resource_index/packages
+[2.149s] copying package.xml -> /home/oiomestre674/Prova-1-M06/install/my_turtle_controller/share/my_turtle_controller
+[2.149s] running install_egg_info
+[2.150s] Copying ../build/my_turtle_controller/my_turtle_controller.egg-info to /home/oiomestre674/Prova-1-M06/install/my_turtle_controller/lib/python3.10/site-packages/my_turtle_controller-0.0.0-py3.10.egg-info
+[2.150s] running install_scripts
+[2.169s] Installing turtle_controller script to /home/oiomestre674/Prova-1-M06/install/my_turtle_controller/lib/my_turtle_controller
+[2.169s] writing list of installed files to '/home/oiomestre674/Prova-1-M06/build/my_turtle_controller/install.log'
+[2.188s] Invoked command in '/home/oiomestre674/Prova-1-M06/my_turtle_controller' returned '0': PYTHONPATH=/home/oiomestre674/Prova-1-M06/build/my_turtle_controller/prefix_override:/home/oiomestre674/Prova-1-M06/install/my_turtle_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/my_turtle_controller build --build-base /home/oiomestre674/Prova-1-M06/build/my_turtle_controller/build install --record /home/oiomestre674/Prova-1-M06/build/my_turtle_controller/install.log --single-version-externally-managed install_data
